@@ -8,6 +8,6 @@ MACHINE LEARNING APPLIED TO TOXICITY STUDIES IN AQUATIC BODIES
 
 Database info:
 
-(https://archive.epa.gov/med/med_archive_03/web/html/ecotox.html)
+https://archive.epa.gov/med/med_archive_03/web/html/ecotox.html
 
-(https://cfpub.epa.gov/ecotox/)
+https://cfpub.epa.gov/ecotox/
