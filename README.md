@@ -6,8 +6,8 @@ MACHINE LEARNING APPLIED TO TOXICITY STUDIES IN AQUATIC BODIES
 
 - machine learning models for toxicity calculations
 
-ToxCast database info:
+Database info:
 
-https://www.epa.gov/comptox-tools/exploring-toxcast-data
+(https://archive.epa.gov/med/med_archive_03/web/html/ecotox.html)
 
-https://www.epa.gov/comptox-tools/toxicity-forecasting-toxcast
+(https://cfpub.epa.gov/ecotox/)
