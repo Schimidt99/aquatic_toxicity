@@ -2,6 +2,11 @@
 
 https://dx.doi.org/10.21577/0103-5053.20260111
 
+Supplementary Information file added (AA_2026-0148SI.pdf)
+
+
+
+
 MACHINE LEARNING APPLIED TO TOXICITY STUDIES IN AQUATIC BODIES
 
 - photolysis of xenobiotic organic compounds in water (OH radical reactions)
